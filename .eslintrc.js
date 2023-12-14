@@ -28,8 +28,8 @@ module.exports = {
       },
     ],
     'react/display-name': 'off',
-    "react/jsx-uses-react": "off",
-    "react/react-in-jsx-scope": "off",
+    'react/jsx-uses-react': 'off',
+    'react/react-in-jsx-scope': 'off',
     // jsx 单引号
     'jsx-quotes': [2, 'prefer-single'],
     'import/no-cycle': 'off', // TODO: remove
